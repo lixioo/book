@@ -20,6 +20,6 @@ export queryParams = funtion(url){
     父组件created
     父组件beforeMounted
 
-    dierci
+    disanci
 
 # common.js 和 es6 中模块引入的区别
