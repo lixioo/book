@@ -1,7 +1,2 @@
-# 232jkahkdhashld
-
-dadasdas
-
-## 2-2
-
-asdklsahdks
+# 日常笔记
+测试发布1

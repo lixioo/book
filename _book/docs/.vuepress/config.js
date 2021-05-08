@@ -1,5 +1,5 @@
 module.exports = {
-  title: "个人笔记",
+  title: "Hello VuePress",
   description: "Just playing around",
 
   base: "/book/",
@@ -18,7 +18,7 @@ module.exports = {
       "/CSS/": [
         "",
         {
-          title: "CSS相关",
+          title: "日常",
           collapsable: false,
           children: ["one"]
         }
